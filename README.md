@@ -26,9 +26,9 @@ This is a list of hardware and firmware engineering resources that I've found in
 
 ## Great active communities:
 
-Microtype Engineering & Discord https://discord.gg/AMNtyesZ
-LumenPnP and discord https://discord.com/invite/TCwy6De
-LEDs are awesome facebook group https://www.facebook.com/groups/LEDSAREAWESOME/
+- Microtype Engineering & Discord https://discord.gg/AMNtyesZ
+- LumenPnP and discord https://discord.com/invite/TCwy6De
+- LEDs are awesome facebook group https://www.facebook.com/groups/LEDSAREAWESOME/
 
 ## Good hardware events and confs
 - Supercon https://hackaday.io/superconference/
