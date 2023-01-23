@@ -4,7 +4,7 @@ This is a list of hardware and firmware engineering resources that I've found in
 
 ## What got me hooked:
 - Hackaday https://hackaday.com/
-- Big Clive https://www.youtube.com/channel/UCtM5z2gkrGRuWd0JQMx76qA
+- Big Clive https://www.youtube.com/@bigclivedotcom
 - Great Scott https://www.youtube.com/@greatscottlab
 - Adafruit Ask an Engineer https://www.youtube.com/@adafruit/streams
 - UAVs and flying [https://www.youtube.com/@rctestflight](https://www.youtube.com/@rctestflight)
@@ -12,9 +12,9 @@ This is a list of hardware and firmware engineering resources that I've found in
 
 ## Where I go to learn and reference:
 
-- Phil’s Lab https://www.youtube.com/channel/UCVryWqJ4cSlbTSETBHpBUWw
+- Phil’s Lab https://www.youtube.com/@PhilsLab/videos
 - Microtype Engineering https://www.youtube.com/c/MicroTypeEngineering
-- Robert Ferenac https://www.youtube.com/channel/UCJQkHVpk3A8bgDmPlJlOJOA
+- Robert Ferenac https://www.youtube.com/@RobertFeranec
 - The Signal Path https://www.youtube.com/c/Thesignalpath
 - Art of Electronics (Book) https://artofelectronics.net/
 
