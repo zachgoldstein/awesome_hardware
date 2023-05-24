@@ -34,3 +34,4 @@ This is a list of hardware and firmware engineering resources that I've found in
 - Supercon https://hackaday.io/superconference/
 - EMF https://www.emfcamp.org/
 - CCC Camp https://events.ccc.de/camp/
+- Open Source Hardware Summit https://2023.oshwa.org/
